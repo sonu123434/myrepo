@@ -1,7 +1,0 @@
-this is file is belong to animal  name 
-Tiger
-Lion 
-Dog
-Fox 
-
-
