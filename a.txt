@@ -2,4 +2,8 @@ Pink
 Red 
 Yellow 
 Green 
-Purple 
+Purple
+White 
+Blue 
+Orange 
+
