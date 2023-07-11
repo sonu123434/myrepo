@@ -1,9 +1,9 @@
-Pink 
-Red 
-Yellow 
-Green 
-Purple
-White 
-Blue 
-Orange 
+Pink =Rose 
+Red =Colour 
+Yellow =Signal light 
+Green =Tree 
+Purple = vegitable 
+White = Wall colour 
+Blue =sky 
+Orange = Sweet's 
 
